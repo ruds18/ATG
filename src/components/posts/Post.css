@@ -1,0 +1,46 @@
+.post-type{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+}
+.card-title{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 134.17%;
+/* or 30px */
+
+
+color: #000000;
+}
+
+.card-text{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 134.17%;
+/* or 25px */
+
+
+color: #5C5C5C;
+}
+
+.post-info_author h3{
+    padding-left: 0.4rem;
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+
+}

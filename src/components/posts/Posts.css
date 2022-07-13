@@ -1,0 +1,48 @@
+.posts{
+    width: 75%;
+}
+.Posts_nav{
+    border-bottom: 1px solid #E0E0E0;
+    display: flex;
+    justify-content: space-between;
+}
+.Posts_nav-btns button:nth-of-type(2){
+    background: #2F6CE5;
+    border-radius: 4px;
+    color: white;
+    border: 0;
+    margin-left: 0.8rem;
+}
+
+.Posts_nav-btns button:nth-of-type(1){
+    background: #EDEEF0;
+    border-radius: 4px;
+    color: black;
+    border: 0;
+}
+
+.post-section{
+    margin: 0;
+    padding: 0;
+}
+.post-options{
+    align-self: baseline;
+    width: 20%;
+   
+}
+.post-options_info{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.post-options_info img{
+    height: 1.7rem;
+    margin-right: 0.2rem;
+}
