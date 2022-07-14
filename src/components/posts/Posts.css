@@ -46,3 +46,16 @@ opacity: 0.5;
     height: 1.7rem;
     margin-right: 0.2rem;
 }
+
+.website button{
+    padding:  0.5rem 0;
+
+    border: 0.7px solid #A9AEB8;
+    border-radius: 8px;
+     color: #E56135;
+     font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 140.4%;
+}

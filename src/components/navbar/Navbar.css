@@ -12,3 +12,53 @@
     border-radius: 21px;
     width: 360px;
 }
+
+.modal-header{
+    text-align: center;
+    background: #EFFFF4;
+border-radius: 8px 8px 0px 0px;
+width: 100%;
+
+
+}
+.modal-header p{
+    width: 100%;
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+text-align: center;
+color: #008A45;
+overflow: hidden;
+
+margin: 0;
+}
+.form_heading{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+}
+
+.svg_heading{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+
+
+color: #3D3D3D;
+}
+.svg_heading span{
+    font-weight: 600;
+    color: #2F6CE5;
+}
