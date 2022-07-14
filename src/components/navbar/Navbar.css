@@ -47,6 +47,7 @@ color: #000000;
 }
 
 .svg_heading{
+    text-align: right;
     font-family: 'IBM Plex Sans';
 font-style: normal;
 font-weight: 400;
@@ -61,4 +62,16 @@ color: #3D3D3D;
 .svg_heading span{
     font-weight: 600;
     color: #2F6CE5;
+}
+
+.svg p:nth-of-type(2){
+    font-family: 'IBM Plex Sans';
+    text-align: center;
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+
+letter-spacing: -0.008em;
 }
